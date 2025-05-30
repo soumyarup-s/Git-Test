@@ -4,3 +4,7 @@ h1{
 #College{
     color: red;
 }
+img{
+    width: 100px;
+    border-radius: 10px;
+}
